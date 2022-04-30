@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fábio!
-- 👀 I’m interested in C# programming using .NET and Javascript
-- 🌱 I’m currently learning .NET and Javascript
-- 💞️ I’m looking to collaborate on any C# or Javascript projects that can further my knowledge
+- 👀 I’m interested in C# programming using .NET and HTML/CSS
+- 🌱 I’m currently learning .NET6, HTML/CSS and SQL
+- 💞️ I’m looking to collaborate on any C# .NET6 projects that can further my knowledge
 - 📫 Reach me at fmadafonseca@gmail.com
 
 <!---
