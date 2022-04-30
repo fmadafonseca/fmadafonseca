@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fábio! a programming student with a degree in system analys and development!
+- 👋 Hi, I’m Fábio! a programming student with a degree in system analysis and development!
 - 👀 I’m interested in C# programming using .NET and HTML/CSS
 - 🌱 I’m currently learning .NET6, HTML/CSS and SQL
 - 💞️ I’m looking to collaborate on any C# .NET6 projects that can further my knowledge
