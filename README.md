@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Fábio!
+- 👋 Hi, I’m Fábio! a programming student with a degree in system analys and development!
 - 👀 I’m interested in C# programming using .NET and HTML/CSS
 - 🌱 I’m currently learning .NET6, HTML/CSS and SQL
 - 💞️ I’m looking to collaborate on any C# .NET6 projects that can further my knowledge
+- 👀 I'm currently looking for jobs at entry level position working with .NET
 - 📫 Reach me at fmadafonseca@gmail.com
 
 <!---
